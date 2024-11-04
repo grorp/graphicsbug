@@ -8,7 +8,7 @@ core.register_chatcommand("gb", {
         local params = string.split(str, " ")
 
         if not params[1] then
-            return false, "variant must be 'white_transparent_bg' or 'black_transparent_bg'"
+            return false, "variant must be 'red', 'prang_white_transparent_bg' or 'prang_black_transparent_bg'"
         end
 
         local fg = "graphicsbug_fg_" .. params[1] .. ".png"
