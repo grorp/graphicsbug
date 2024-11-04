@@ -1,4 +1,4 @@
-`graphicsbug_fg_white_transparent_bg.png` is `prang_start_button.png` from luk3yx's [PRANG!](https://gitlab.com/luk3yx/minetest-prang) port for Minetest.
+`graphicsbug_fg_white_transparent_bg.png` is `prang_start_button.png` from [luk3yx's PRANG! port for Minetest](https://gitlab.com/luk3yx/minetest-prang).
 
 That repo says:
 
