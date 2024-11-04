@@ -1,5 +1,5 @@
 core.register_chatcommand("gb", {
-    description = "Show a downscaled texture to show artifacts caused by linear filtering + repeating.",
+    description = "Show a downscaled texture to show artifacts caused by bilinear filtering + repeating.",
     params = "<string: variant> [<bool: apply noalpha texture modifier, default false>] [<int: texture size, default 360>]",
     func = function(name, str)
         local p = core.get_player_by_name(name)
